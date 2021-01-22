@@ -1,3 +1,3 @@
 # otsimo
 otsimo go ödevi
-ön gçrüşme için yaptığım ödev
+ön görüşme için yaptığım ödev
