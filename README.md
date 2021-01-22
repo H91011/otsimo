@@ -1,0 +1,2 @@
+# otsimo
+otsimo go ödevi
